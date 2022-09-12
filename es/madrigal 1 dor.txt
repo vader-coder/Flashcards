@@ -1,0 +1,14 @@
+es-en
+el senador = senator
+el acelerador = accelerator
+el dictador = dictator
+el generador = generator
+el orador = orator
+el colaborador = colaborator
+el educador = educator
+el investigador = investigator
+el radiador = radiator
+el creador = creator
+el elevador = elevator
+el operador = operator
+el ventilador = ventilator

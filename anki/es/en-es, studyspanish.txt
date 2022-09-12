@@ -1,0 +1,13 @@
+ bathtub ; la bañera 
+ toilet ; el excusado 
+ sink ; el lavamanos 
+ medicine cabinet ; el botiquín 
+ soap ; el jabón 
+ towel ; la toalla 
+ curtain rod ; el cortinero 
+ shower cap ; el gorro de baño 
+ shower ; la ducha 
+ soap dish ; la jabonera 
+ sponge ; la esponja 
+ shampoo ; el champú 
+ drain ; el desagüe 

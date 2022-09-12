@@ -1,0 +1,14 @@
+es to fr
+aprender = apprendre
+beber = boire
+comer = manger
+comprender = comprendre
+correr = courir
+creer = croire
+deber = devoir
+leer = lire
+meter = mettre
+prender = allumer, activer
+romper = casser, rompre
+toser = tousser
+vender = vendre

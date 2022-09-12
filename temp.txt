@@ -1,0 +1,7 @@
+absolver = to absolve, to acquit
+absuelvo el criminal = I absolve the criminal
+absuelves el criminal = you (informal) absolve the criminal
+absolvéis el criminal = you (vosotros) absolve the criminal
+absuelve el criminal = he absolves the criminal
+absolvemos el criminal = we absolve the criminal
+absuelven el criminal = they absolve the criminal

@@ -1,0 +1,22 @@
+es to fr
+dar = donner
+decir = dire
+descubrir = découvre
+destruir = destruire
+dormir = dormir
+escribir = écriver
+estar = être, il est
+leer = lire
+mentir = mentir
+morir = mourir
+poder = pouvoir
+repetir = répetir
+resolver = resolver, je pense 
+romper = rompre ?
+saber = savoir
+salir = ?
+sentir = sentir
+ser, es = être, es
+tener = tenir
+venir = venir
+ver = voir

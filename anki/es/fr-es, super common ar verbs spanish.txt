@@ -1,0 +1,18 @@
+ accepter ; aceptar 
+ conseiller ; aconsejar 
+ aider ; ayudar 
+ louer ; alquilar 
+ chercher ; buscar 
+ chanter ; cantar 
+ repondre ; contestar 
+ créer ; crear 
+ laisser ; dejar 
+ jeter, lancer ; echar 
+ entrer ; entrar 
+ écouter ; escuchar 
+ garder ; guardar 
+ parler ; hablar 
+ appeler ; llamar 
+ arriver, obtenir ; llegar 
+ apporter ; llevar 
+ envoyer ; mandar 

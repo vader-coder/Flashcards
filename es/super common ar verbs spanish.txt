@@ -1,0 +1,19 @@
+es to fr
+aceptar = accepter
+aconsejar = conseiller
+ayudar = aider
+alquilar = louer
+buscar = chercher
+cantar = chanter
+contestar = repondre
+crear = créer
+dejar = laisser
+echar = jeter, lancer
+entrar = entrer
+escuchar = écouter
+guardar = garder
+hablar = parler
+llamar = appeler
+llegar = arriver, obtenir
+llevar = apporter
+mandar = envoyer

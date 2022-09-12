@@ -1,0 +1,65 @@
+dar = donner
+te doy una naranja = je te donne une orange
+me das una naranja = tu me donnes une orange 
+te da una naranja = il te donne une orange
+te damos una naranja = nous te donnons une orange
+me dais una naranja = vous me donnez une orange
+nos dan una naranja = ils nous te donnent une orange
+decir = dire
+te digo nada 
+me dices nada 
+te dice nada 
+les dicimos nada
+le decís nada 
+nos dicen nada  
+estar = être (temporairement)
+estoy en la biblioteca  
+estás en la biblioteca
+está en la biblioteca
+estamos en la biblioteca
+están en la biblioteca
+escuchar = écouter
+escucho música
+escuchas música
+escucha música
+escucho música
+escuchamos música
+escucháis música
+escuchan música
+hacer = faire
+hago canciones
+haces canciones
+hace canciones
+hacemos canciones
+hacéis canciones 
+hacen canciones 
+
+poder = pouvoir
+puedo correr 
+puedes correr 
+puede correr 
+podemos correr
+podéis correr
+pueden correr 
+poner = mettre, poser
+pongo el vaso sobre la mesa
+pones el vaso sobre la mesa
+pone el vaso sobre la mesa
+ponemos el vaso sobre la mesa
+ponéis el vaso sobre la mesa
+ponen el vaso sobre la mesa
+querer = vouloir
+saber = savoir
+salir = sortir
+ser = être
+soy blanco 
+es verde 
+son verde 
+somos blancos 
+
+tener = avoir
+traer = apporter
+ir = aller
+ver = voir
+oír = écouter, entendre
+venir = venir

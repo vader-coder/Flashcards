@@ -1,0 +1,3 @@
+fr to en
+bonjour = hello
+au revoir = goodbye
