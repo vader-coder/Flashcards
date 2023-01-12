@@ -1,0 +1,32 @@
+es to en
+yo almuerzo = I eat lunch
+él almuerza = he eat lunch
+tu almuerzas = you eat lunch
+vosotros almorzáis = you eat lunch (spain)
+ellos almuerzan = they eat lunch
+nosotros almorzamos, nosotras almorzamos = we eat lunch
+yo cuento = I tell, I count
+él cuenta = he tells, he counts
+tu cuentas = you tell, you count
+vosotros contáis = you tell, you count (spain)
+they cuentan = they tell, they count
+nosotros contamos, nosotras contamos = we tell, we count
+yo duermo = I sleep
+tu duermes = you sleep
+él duerme = he sleeps
+vosotros dorméis = you sleep (spain)
+ellos duermen = they sleep
+nosotros dormemos, nosotras dormemos = we sleep
+yo empiezo = I start, begin
+tu empiezas = you start, begin
+él empieza = he starts
+vosotros empezáis = you start, begin (spain)
+ellos empiezan = they start, begin
+nosotros empezemos, nosotras empezemos = we start, begin
+yo entiendo = i understand
+tu entiendes = you understand
+él entiende = he understands
+vosotros entendéis = you understand (plural)
+ellos entienden = they understand
+nosotros entendemos, nosotras entendemos = we understand
+  
