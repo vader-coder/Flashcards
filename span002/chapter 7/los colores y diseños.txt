@@ -1,0 +1,15 @@
+es to en
+negro = black
+marrón = brown
+gris = grey
+blanco = white
+rojo = red
+rosado = pink
+anaranjado = orange
+amarillo = yellow
+verde = green
+azul = blue
+morado = purple
+a cuardros = checkered
+a rayas = striped, stripes
+estampando, estampanda = having a style with colorful flowers and designs
